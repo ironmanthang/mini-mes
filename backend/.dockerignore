@@ -1,0 +1,15 @@
+# backend/.dockerignore
+
+# Git files
+.git
+.gitignore
+
+# Local dependencies
+node_modules
+
+# Secret environment variables
+.env
+
+# Logs
+npm-debug.log*
+logs/
